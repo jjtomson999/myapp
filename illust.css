@@ -1,0 +1,23 @@
+body{
+  background-image:url(./images/chris-bTLwt0PyIf0-unsplash.jpg);
+}
+
+.illust{
+ text-align: center;
+}
+.illust div.info{
+  width: 100%;
+  border: 1px solid black;
+  margin: 0 auto;
+  text-align: center;
+}
+.illust div.info p{
+  margin-top: 40px;
+  margin: 0 auto;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  margin: 120px auto 0 auto;
+  display: block;
+}
